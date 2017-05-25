@@ -1,0 +1,13 @@
+<suite name="regression">
+
+	<test name="maycycle1">
+
+		<parameters>
+			<parameter name="brName" value="ff" />
+		</parameters>
+		<classes>
+			<class name="com.ohrm.tests.OhrmAddEmployee_001" />
+		</classes>
+
+	</test>
+</suite>
